@@ -3,7 +3,7 @@ function bmi(a,b){
     return bmi;
 }
 const john = {
-    name: "John Smith",
+    name: "John Smith", 
     width: 78,
     height: 1.69,
     bmi:bmi(79,1.69),
